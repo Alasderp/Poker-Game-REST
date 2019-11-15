@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      enabled: ${SPRING_CONFIG_ENABLED:false}
+      allowOverride: false
+      failFast: true
+      overrideNone: false
+      overrideSystemProperties: false
+encrypt:
+  failOnError: true
