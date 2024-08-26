@@ -16,7 +16,7 @@
 		<cobra.maven.clean.plugin.version>3.0.0</cobra.maven.clean.plugin.version>
 		<cobra.spring.boot.version>2.1.8.RELEASE</cobra.spring.boot.version>
 		<cobra.spring.cloud.version>Greenwich.SR2</cobra.spring.cloud.version>
-		<cobra.swagger.springfox.version>2.9.2</cobra.swagger.springfox.version>
+		<cobra.swagger.springfox.version>2.10.0</cobra.swagger.springfox.version>
 	</properties>
 
 	<dependencyManagement>
